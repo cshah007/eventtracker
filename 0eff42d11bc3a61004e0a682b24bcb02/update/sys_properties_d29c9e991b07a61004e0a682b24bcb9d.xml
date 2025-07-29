@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_clrp_eventtrac_0.test_property</name>
+        <read_roles/>
+        <suffix>test_property</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>mithila.kambli</sys_created_by>
+        <sys_created_on>2025-07-29 08:35:18</sys_created_on>
+        <sys_id>d29c9e991b07a61004e0a682b24bcb9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_clrp_eventtrac_0.test_property</sys_name>
+        <sys_package display_value="eventTracker" source="x_clrp_eventtrac_0">0eff42d11bc3a61004e0a682b24bcb02</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="eventTracker">0eff42d11bc3a61004e0a682b24bcb02</sys_scope>
+        <sys_update_name>sys_properties_d29c9e991b07a61004e0a682b24bcb9d</sys_update_name>
+        <sys_updated_by>mithila.kambli</sys_updated_by>
+        <sys_updated_on>2025-07-29 08:35:18</sys_updated_on>
+        <type>string</type>
+        <value>test</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=d29c9e991b07a61004e0a682b24bcb9d"/>
+</record_update>
